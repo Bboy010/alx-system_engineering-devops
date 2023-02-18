@@ -1,1 +1,1 @@
-Pictures for the test
+Pictures for the command line test
