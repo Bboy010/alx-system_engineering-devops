@@ -9,32 +9,12 @@
     <meta name="description" content="">
     <meta name="google" content="notranslate">
 
-
-    <title>Project: 0x04. Loops, conditions and parsing | Abidjan Intranet</title>
-
-      <link rel="stylesheet" href="https://use.typekit.net/xgz4ilr.css">
-      <link rel="stylesheet" media="all" href="/assets/application_alx-5cd7b579ddb6d0571ae6ab271f02344e26a6e5dd6ec5b7a6348f6b267ccbb933.css" />
-      <script src="https://www.gstatic.com/charts/loader.js"></script>
-      <script src="/assets/application-d6aae7f7853f92b7c29b12f8d839da6ba98c61e2d3a4c5d3dd2c9eb846bdd673.js"></script>
-      <link rel="shortcut icon" type="image/x-icon" href="/favicon_alx.ico" />
-      <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="LkuKWLe55fRZ2uv7thonYZtcx--ex4ETGfT_-qjvCMQHcAd8BH4wONCJKSgL8KgMcdoFD2ksfd36ELAcxiCLEw" />
   </head>
 
   <body class="signed_in env_production notranslate"
         translate="no"
         class="notranslate"
-        data-theme-suffix="_alx">
-      
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-mobile" aria-expanded="false">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-
-   
+        data-theme-suffix="_alx">   
   <div class="collapse navbar-collapse navigation" id="navbar-mobile">
   </div>
 </nav>
