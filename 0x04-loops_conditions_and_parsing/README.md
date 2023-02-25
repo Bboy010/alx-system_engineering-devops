@@ -1048,7 +1048,8 @@ Buzz
 sylvain@ubuntu$ 
 </code></pre>
 
-  </div>
+<footer>
+   </div>
 
   <div class="list-group">
     <!-- Task URLs -->
@@ -1067,7 +1068,7 @@ sylvain@ubuntu$
       </article>
 
       <div class="copyright">Copyright © 2023 ALX, All rights reserved.</div>
-
-    </main>
+</footer>
+     </main>
   </body>
 </html>
