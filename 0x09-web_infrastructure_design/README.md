@@ -26,4 +26,5 @@
 
 * Specifis about this infrastructure
 
-## Authors _Hongo Koffi Anderson & Chukwuneke Philip Ike_::bananadance
+## Authors :black_nib: 
+* _Hongo Koffi Anderson & Chukwuneke Philip Ike_
