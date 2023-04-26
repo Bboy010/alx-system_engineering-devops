@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# connect your server using the provate key ~/.ssh/school
+# echo "SSH Public key >> ~/.ssh/authorized_keys
+ssh -i ~/.ssh/school ubuntu@3.90.65.245
