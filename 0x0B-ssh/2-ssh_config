@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Way to connect to a server without password
+ bash
+Host 3.90.65.245
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
