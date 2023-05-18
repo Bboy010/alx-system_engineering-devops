@@ -17,6 +17,6 @@ database server on the database `tyrell_corp`.
 
 * [5-mysql_backup](./5-mysql_backup): Bash script that generates a compressed
 `tar.gz` archive from a MySQL dump.
-  * Usage: `./5-mysql_backup <MySQL root password>`
+  * Usage: `./5-mysql_backup <MySQL root password>`.
   * Generates a dump containing all MySQL databases on the root server.
   * Names the resulting tar archive in the format `day-month-year.tar.gz`.
