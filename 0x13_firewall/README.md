@@ -1,4 +1,4 @@
-# Firewall
+# Firewall project
 
 In this project, I used `ufw` to configure firewalls on my issued web servers web-01.
 
